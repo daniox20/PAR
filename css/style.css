@@ -33,12 +33,12 @@ body{
   left: -50%;
   right: -50%;
   bottom: -50%;
-  width: 300%;
-  height: 300vh;
+  width: 200%;
+  height: 200vh;
   background: transparent url('http://assets.iceable.com/img/noise-transparent.png') repeat 0 0;
   background-repeat: repeat;
   animation: bg-animation .2s infinite;
-  opacity: 20000;
+  opacity: 1000;
   visibility: visible;
 }
 
